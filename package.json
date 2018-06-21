@@ -1,0 +1,27 @@
+{
+  "name": "overvue",
+  "version": "0.1.0",
+  "description": "Um Overview sobre Vue - Powered by VuePress",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbobenicio/overvue.git"
+  },
+  "keywords": [
+    "vue",
+    "vuepress"
+  ],
+  "author": "Hugo Benício <hugo.oliveira@serpro.gov.br>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hbobenicio/overvue/issues"
+  },
+  "homepage": "https://github.com/hbobenicio/overvue#readme",
+  "devDependencies": {
+    "vuepress": "^0.10.2"
+  }
+}
