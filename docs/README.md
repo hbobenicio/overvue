@@ -1,4 +1,4 @@
 ---
 home: true
-heroImage: /assets/img/Vue.svg
+heroImage: ./assets/img/Vue.svg
 ---

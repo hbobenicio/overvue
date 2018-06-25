@@ -14,7 +14,7 @@ sidebar: auto
 - Framework Javascript
 - Criado em 2014 por Evan You
 
-  ![Evan You](/assets/img/evan-you.jpg)
+  ![Evan You](./img/evan-you.jpg)
 
 - Open Source, hospedado no [Github][vue-github]
 

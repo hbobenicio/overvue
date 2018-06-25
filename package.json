@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "build:github": "BASE_URL=/overvue/ vuepress build docs",
+    "publish:github": "./publish-to-github.sh",
+    "deploy:github": "npm run build:github && npm run publish:github"
   },
   "repository": {
     "type": "git",
