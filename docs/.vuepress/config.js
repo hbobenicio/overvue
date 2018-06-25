@@ -6,9 +6,7 @@ module.exports = {
     search: false,
     nav: [
       { text: 'Página Inicial', link: '/' },
-      { text: 'Funcionalidades', link: '/funcionalidades/' },
-      { text: 'Ferramentas e Ecosistema', link: '/ferramentas-e-ecosistema/' },
-      { text: 'Saiba Mais', link: '/saiba-mais/' }
+      { text: 'Apresentação', link: '/apresentacao/' }
     ]
   }
 }
