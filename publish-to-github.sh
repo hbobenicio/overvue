@@ -12,6 +12,6 @@ cd docs/.vuepress/dist
 git init
 git add -A
 git commit -m 'deploy to github'
-git push -f https://github.com/hbobenicio/overvue.git master:gh-pages
+git push -q -f https://${GITHUB_ACCESS_TOKEN}@github.com/hbobenicio/overvue.git master:gh-pages
 
 cd -
