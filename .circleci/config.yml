@@ -34,6 +34,8 @@ jobs:
           - v1-dependencies-{{ checksum "package.json" }}
           - v1-dependencies-
 
+      - run: git config --global user.email hbobenicio@gmail.com
+      - run: git config --global user.name "Hugo Benício (CircleCI)"
       - run: npm run publish:github
 
 workflows:
