@@ -48,6 +48,8 @@ workflows:
             branches:
               ignore: gh-pages
       - deploy-to-github:
+          requires:
+            - build
           filters:
             branches:
               ignore: gh-pages
