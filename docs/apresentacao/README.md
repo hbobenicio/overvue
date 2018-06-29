@@ -63,16 +63,19 @@ sidebar: auto
 
 ### Pontos Fortes
 
-- Bom Downscaling (Chega de jQuery!)
-- Bom Upscaling (Vue Router, Vuex, Lazy Loading, etc...)
-- Documentação, Comunidade e Popularidade
-- Footprint (Vue é leve!)
+- Downscaling (Chega de jQuery!)
+- Upscaling (Vue Router, Vuex, Lazy Loading, etc...)
+- Flexibilidade
+- Documentação e Conteúdo
+- Curva de Aprendizado
+- Footprint (Vue é leve! ~88KB)
 - Vuetify
 - CLI
 
 ### Pontos Fracos
 
-- Suporte a Typescript
+- Upscaling (Suporte a Typescript)
+- Flexibilidade
 - CLI
 
 ## Saiba mais
