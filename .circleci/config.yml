@@ -45,3 +45,8 @@ workflows:
     jobs:
       - build
       - deploy-to-github
+    triggers:
+      - filters:
+        branches:
+          ignore:
+            - gh-pages
