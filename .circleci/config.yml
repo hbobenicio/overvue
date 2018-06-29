@@ -36,10 +36,13 @@ jobs:
       - checkout
       - attach_workspace:
           at: ~/repo
+
       - restore_cache:
           keys:
           - v1-dependencies-{{ checksum "package.json" }}
           - v1-dependencies-
+
+      - run: echo docs/.vuepress/dist/apresentacao/index.html
 
       - run: git config credential.helper 'cache --timeout=120'
       - run: git config --global user.email hbobenicio@gmail.com
