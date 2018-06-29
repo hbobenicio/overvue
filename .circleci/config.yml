@@ -43,10 +43,13 @@ workflows:
   version: 2
   pipeline:
     jobs:
-      - build
-      - deploy-to-github
-    triggers:
-      - filters:
-        branches:
-          ignore:
-            - gh-pages
+      - build:
+        filters:
+          branches:
+            ignore:
+              - gh-pages
+      - deploy-to-github:
+        filters:
+          branches:
+            ignore:
+              - gh-pages
