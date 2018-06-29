@@ -44,12 +44,10 @@ workflows:
   pipeline:
     jobs:
       - build:
-        filters:
-          branches:
-            ignore:
-              - gh-pages
+          filters:
+            branches:
+              ignore: gh-pages
       - deploy-to-github:
-        filters:
-          branches:
-            ignore:
-              - gh-pages
+          filters:
+            branches:
+              ignore: gh-pages
