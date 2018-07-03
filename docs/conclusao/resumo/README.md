@@ -6,4 +6,8 @@ title: Resumo
 
 - Não existem balas de prata
 - React, Angular e Vue resolverão o seu problema
-- Ecossistema rico com inúmeras bibliotecas e ferramentas
+- Vue
+  - Diversas Funcionalidades
+  - Ecossistema rico
+  - Inúmeras bibliotecas e ferramentas
+  - Bom Downscaling e Upscaling

@@ -1,6 +1,4 @@
-# Overvue
-
-[![CircleCI](https://circleci.com/gh/hbobenicio/overvue/tree/master.svg?style=svg)](https://circleci.com/gh/hbobenicio/overvue/tree/master)
+# Overvue [![CircleCI](https://circleci.com/gh/hbobenicio/overvue/tree/master.svg?style=svg)](https://circleci.com/gh/hbobenicio/overvue/tree/master)
 
 > Um Overview sobre Vue
 

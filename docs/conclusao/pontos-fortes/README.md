@@ -11,4 +11,4 @@ title: Pontos Fortes
 - Curva de Aprendizado
 - Footprint :footprints: (Vue é leve! ~88KB)
 - Vuetify
-- CLI
+- CLI 3.0 (o que vem por ai...)

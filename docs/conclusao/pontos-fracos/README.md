@@ -4,6 +4,6 @@ title: Pontos Fracos
 
 # Pontos Fracos :chart_with_downwards_trend:
 
-- Upscaling (Suporte a Typescript)
+- Suporte a Typescript
 - Flexibilidade
-- CLI
+- CLI 3.0 (instabilidade atual...)
