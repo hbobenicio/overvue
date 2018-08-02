@@ -11,4 +11,7 @@ title: Quem usa?
   ![Adobe](./img/adobe.png)
 
   ![Codeship](./img/codeship.png)
-  
+
+::: tip
+Para uma lista mais completa, vide [awesome-vue](https://github.com/vuejs/awesome-vue#projects-using-vuejs)
+:::
