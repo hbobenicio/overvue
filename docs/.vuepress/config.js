@@ -19,6 +19,7 @@ module.exports = {
         collapsable: false,
         children: [
           '/o-que-eh-vue/',
+          '/quem-usa/',
           '/funcionalidades/',
           '/ecossistema/',
         ]

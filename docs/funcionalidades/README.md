@@ -25,4 +25,5 @@ Estas são as principais funcionalidades do Framework:
   - Routers
   - Gerenciadores de Estado Global (Redux like)
   - Typescript
+  - Lazy Loading (Componentes, Rotas e Módulos Vuex)
 - Etc...
